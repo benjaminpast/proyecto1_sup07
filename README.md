@@ -1,5 +1,7 @@
 <h1>Proyecto 01 - SUP07</h1>
 
+![Netflix-Logo](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/netflix-logo.png)
+
 <h3>Limpieza de datos + Api + Extra</h3>
 
 <h4>Consigna</h4>
@@ -47,3 +49,13 @@
 - Trabajen con GitHub desde el principio
 - Vayan documentando cada parte
 - No hagan trampa
+
+<h2>Hay premio para el que lo complete </h2>
+???
+
+
+![meme](https://raw.githubusercontent.com/olivierifederico/proyecto1_sup07/main/_src/PC180288.jpg)
+
+
+
+ <h3>TA: Benjamin Pastor -  Federico Olivieri</h3>
